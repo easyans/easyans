@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/AkashVa93764351" target="blank"><img src="https://img.shields.io/twitter/follow/akashvarma?logo=twitter&style=for-the-badge" alt="Akash Varma" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Data analysis**
 
-- 💬 Ask me about **HTML , CSS , JS , React Native , Nodejs**
+- 💬 Ask me about **HTML , CSS , JS , React , Nodejs**
 
 - 📫 How to reach me **techa2328@gmail.com**
 
