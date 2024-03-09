@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data analysis**
 
-- 💬 Ask me about **HTML , CSS , JS , React , Nodejs**
+- 💬 Ask me about **Wed-Dev and App dev**
 
 - 📫 How to reach me **techa2328@gmail.com**
 
